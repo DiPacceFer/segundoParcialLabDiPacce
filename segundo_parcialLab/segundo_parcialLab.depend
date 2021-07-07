@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1625651336 source:c:\users\fernando\desktop\segundo_parciallab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1625651031 c:\users\fernando\desktop\segundo_parciallab\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1625649945 c:\users\fernando\desktop\segundo_parciallab\linkedlist.h
+
+1625649958 source:c:\users\fernando\desktop\segundo_parciallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625654008 source:c:\users\fernando\desktop\segundo_parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"paises.h"
+	"menu.h"
+	"Controller.h"
+	"validaciones.h"
+
+1625654101 c:\users\fernando\desktop\segundo_parciallab\paises.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	<string.h>
+
+1625647040 c:\users\fernando\desktop\segundo_parciallab\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1625646076 c:\users\fernando\desktop\segundo_parciallab\validaciones.h
+
+1625646991 source:c:\users\fernando\desktop\segundo_parciallab\menu.c
+	"menu.h"
+
+1625653860 source:c:\users\fernando\desktop\segundo_parciallab\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+
+1625651108 source:c:\users\fernando\desktop\segundo_parciallab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"validaciones.h"
+
+1625651031 c:\users\fernando\desktop\segundo_parciallab\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1625646078 source:c:\users\fernando\desktop\segundo_parciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
